@@ -34,3 +34,9 @@ Finally, I don't want to open this file manually every time I would like to chec
 }
 
 > > > yarn start
+
+---
+
+Compiling TypeScript imports ts-loader = > TypeScript loader for webpack https://www.npmjs.com/package/ts-loader
+
+=> babel-loader + @babel/preset-typescript https://www.npmjs.com/package/@babel/preset-typescript
